@@ -24,11 +24,13 @@ A Python script for converting Android XML save-game files (structured as `<map>
 ## Installation
 
 1. Clone this repository or copy the script into your project directory:
+
    ```bash
    git clone https://github.com/yourusername/android-to-ios-plist.git
    cd android-to-ios-plist
    ```
-2. (Optional) Create a virtual environment:
+3. (Optional) Create a virtual environment:
+
    ```bash
    python -m venv venv
    source venv/bin/activate  # macOS/Linux
